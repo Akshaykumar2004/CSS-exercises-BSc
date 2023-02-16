@@ -1,0 +1,36 @@
+body{
+  font-family:Arial, Helvetica, sans-serif
+}
+
+.para.small-para {
+  font-size: 14px;
+  font-weight: 800px;
+}
+
+.para {
+  font-size: 22px;
+}
+
+.button-confirm {
+  background:red;
+  color: white;
+  font-weight: 800px;
+} 
+
+.button {
+  background-color: rgb(255, 255, 255);
+  color: rgb(0, 0, 0);
+  font-size: 20px;
+}
+
+.text.child {
+  color: rgb(0, 0, 0);
+  font-weight: 800px;
+  font-size: 14px;
+}
+
+div.text {
+  color: rgb(0, 0, 0);
+  font-size: 22px;
+  font-weight: 100;
+}
